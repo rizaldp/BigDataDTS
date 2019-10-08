@@ -1,4 +1,4 @@
-ID,Name,Salary,StartDate,Dept
+ID,name,salary,startDate,dept
 1,Rick,623.3,1/1/2012,IT
 2,Dan,515.2,9/23/2013,Operations
 3,Michelle,611,11/15/2014,IT
